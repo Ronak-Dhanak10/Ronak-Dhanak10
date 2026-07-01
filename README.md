@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ RONAK DHANAK ⚡
+# OMPRAKASH DHANAK 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=240&lines=Python+Developer;AI+%7C+Computer+Vision+Enthusiast;Building+Real+World+AI+Projects;Future+Software+Engineer" />
 
